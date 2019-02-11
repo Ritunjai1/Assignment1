@@ -1,0 +1,27 @@
+	img{
+			margin-left: 140px;
+			width:230px;
+			height:85px;
+			float:left;
+		}
+	p{		
+		color: white;
+		float:left;
+		width:100%;
+		padding:25px;
+		border:10px;
+		background-color:grey;
+		border: 1px white;
+		font-size:15px;
+		font-color:red;
+		text-align:center;
+	 }
+	 button
+	 {	align-items: center;
+	 	width: 160px;
+	 	border: solid black;
+	 	border-radius:3px;
+	 	margin: 2px;
+	 	padding: 10px; 
+	 	background-color: darkgrey;
+	 }
